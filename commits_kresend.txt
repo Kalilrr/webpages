@@ -1,0 +1,17 @@
+commit afbe1ca7903e62381d5051f4edd0355d37a20534
+Author: Kalil Resendiz Rubio <kresend@ncsu.edu>
+Date:   Sun Sep 20 22:04:04 2026 -0400
+
+    fixed file names
+
+commit 3e6faa4c3c0fab4dda31ad70f6da229a0e199769
+Author: Kalil Resendiz Rubio <kresend@ncsu.edu>
+Date:   Sun Sep 20 22:01:18 2026 -0400
+
+    renamed webpage files
+
+commit 83076d6a60595c1c0a7002b3ea705209a423a388
+Author: Kalil Resendiz Rubio <kresend@ncsu.edu>
+Date:   Sun Sep 20 21:52:16 2026 -0400
+
+    uploading files
